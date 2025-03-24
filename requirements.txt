@@ -1,0 +1,4 @@
+pyinstaller
+openpyxl
+paramiko
+python-dotenv
